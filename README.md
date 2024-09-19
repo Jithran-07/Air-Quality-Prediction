@@ -45,9 +45,3 @@ This project highlights the role of advanced machine learning techniques in addr
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-This `README.md` outlines the structure and key aspects of your air quality prediction project. Let me know if you need further edits!
